@@ -1,4 +1,4 @@
 # calculadora
 Calculadora curso de java
 
-Artho Petry
+mantenedor: Artho Petry
