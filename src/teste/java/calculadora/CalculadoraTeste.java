@@ -14,7 +14,7 @@ public class CalculadoraTeste {
      @Before
      public void atribuiValores() {
     	 valorX = 10;
-    	 valorY = 5;
+    	 valorY = 6;
     	 resposta = 15;
      }
      @After
