@@ -8,7 +8,7 @@ import org.junit.Test;
 
 import main.java.calculadora.Soma;
 
-public class CalculadoraTeste {
+public class SomaTest {
      public int valorX, valorY, resposta;
      
      @Before
